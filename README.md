@@ -7,4 +7,4 @@ Header section used table to show logo and title.
 HTML Form with input text,number,datepicker,dropdown,radio & checkbox 
 Basic Html Validation on form done
 
-Technical used: Html, CSS
+Technologies used: Html, CSS
